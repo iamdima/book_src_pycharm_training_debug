@@ -5,4 +5,4 @@ This course assumes that you have installed PyCharm and that you have successful
 setup a working environment. 
 
 ## Code Repository
-The Python code used for this course is publicly available from... 
+The Python code used for this course is publicly available from [Debug Source Code on Github](https://github.com/iamdima/code_pycharm_training_debug)
