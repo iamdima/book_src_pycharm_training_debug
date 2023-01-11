@@ -1,4 +1,4 @@
-# Debugging in PyCharm
+# Debugging in PyCharm Course Notes
 
 
 
