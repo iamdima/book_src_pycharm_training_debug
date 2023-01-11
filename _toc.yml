@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: coverpage
+parts:
+  - caption: Introduction
+    numbered: True
+    chapters:
+    - file: contents/foreword
+    - file: contents/introduction/setup
+      sections:
+        - file: contents/introduction/installation
+    - file: contents/navigation/debug
