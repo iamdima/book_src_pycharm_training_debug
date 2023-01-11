@@ -8,7 +8,9 @@ parts:
     numbered: True
     chapters:
     - file: contents/foreword
-    - file: contents/introduction/setup
-      sections:
-        - file: contents/introduction/installation
-    - file: contents/navigation/debug
+    - file: contents/setup
+  - caption: Debugging
+    numbered: True
+    chapters:
+    - file: contents/debugging/breakpoints
+    - file: contents/debugging/navigation
